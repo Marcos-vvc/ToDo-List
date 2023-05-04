@@ -20,7 +20,7 @@ Nesse desafio, você vai desenvolver uma aplicação de controle de tarefas no e
 -   Acessar primeiro o diretório mobile com o comando
 
 ```bash
-cd mobile
+cd ToDo-List
 ```
 - Instalar as dependências da aplicação MOBILE
 ```bash
